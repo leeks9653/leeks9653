@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653@naver.com)](https://github.com/leeks9653@naver.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/leeks9653/github-readme-stats)
 <!--
 **leeks9653/leeks9653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
