@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:00FFFF&height=300&section=header&text=Hi%20I'm KyeongSoo&fontSize=50&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:00FFFF&height=300&section=header&text=Hello&fontSize=50&fontColor=FFFFFF" />
 
 🔭
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/leeks9653/github-readme-stats)
