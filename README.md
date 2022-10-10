@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeks9653)](https://github.com/leeks9653/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <!--
 **leeks9653/leeks9653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
