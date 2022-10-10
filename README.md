@@ -3,7 +3,7 @@
 
 <h2>My Skills</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/leeks9653/my-components)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyeongS)](https://github.com/leeks9653/my-components)
 <h2>My Skills</h2>
 
 [![KyeongSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeks9653)]
