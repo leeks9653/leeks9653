@@ -1,6 +1,4 @@
-<div style="width:100%">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text&center=true&width="100%")](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text&center=true&width=800)](https://git.io/typing-svg)
 
 
 
