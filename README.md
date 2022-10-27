@@ -24,6 +24,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=FFFFFF"/>
 </div>
 <h2>Learning</h2>
 <div>
