@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!%20I'm%20KyeongSoo&fontSize=50" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <h2>Most Used Languages</h2>
