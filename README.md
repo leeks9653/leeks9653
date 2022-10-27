@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+name+is+Kyeong+soo&vCenter=true&size=30&duration=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+name+is+Kyeong+soo&vCenter=true&size=30&duration=3000)](https://git.io/typing-svg)
 
 
 
