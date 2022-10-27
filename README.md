@@ -31,6 +31,7 @@
 </div>
 <h2>Learning</h2>
 <div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=FFFFFF"/>
 </div>
 
