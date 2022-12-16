@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=FFFFFF"/>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653&layout=compact&theme=gruvbox)
 
 
 <!--
