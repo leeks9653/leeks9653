@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=FFFFFF"/>
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnlwllms)](https://solved.ac/dnlwllms)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
 <!--
 **leeks9653/leeks9653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
