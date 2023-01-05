@@ -24,13 +24,8 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=FFFFFF"/>
 </div>
-<h2>Learning</h2>
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=FFFFFF"/>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/leeks9653)
 
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
