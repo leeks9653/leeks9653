@@ -26,8 +26,9 @@
 </div>
 
 
+<div> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/leeks9653)
-
+</div>
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
