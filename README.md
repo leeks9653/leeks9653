@@ -28,7 +28,7 @@
 
 <h2>Top Language</h2>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/leeks9653)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moolbum&hide=shell&layout=compact)](https://github.com/moolbum)
 <!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
