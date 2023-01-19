@@ -2,8 +2,6 @@
 
 <h2>Github Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeks9653&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>Can use</h2>
 <div style="display:flex;gap:30;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
@@ -28,8 +26,6 @@
 
 <h2>Top Language</h2>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653&hide=shell&layout=compact)](https://github.com/leeks9653)
-<!--
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
 **leeks9653/leeks9653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
