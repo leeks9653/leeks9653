@@ -3,7 +3,7 @@
 <h2>Github Stats</h2>
 
 <h2>Can use</h2>
-<div style="display:flex;gap:30; justify-content:center;">
+<div style="display:flex;gap:200; justify-content:center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
 </div>
