@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=FFFFFF"/>
 </div>
 
-/*
+<!-- 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
-*/
-  
+-->
