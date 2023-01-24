@@ -7,9 +7,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeks9653&show_icons=true&theme=radical)
   
 </div>
+<br/>
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
 <br/>
 <h2 align="center">🛠️ Can use 🛠️</h2>
 <div align="center">
