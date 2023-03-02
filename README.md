@@ -11,13 +11,13 @@
 
 <div align="center">
  <table>
-  <tr style="border:none;">
-   <td style="border:none;">
+  <tr style="border:none">
+   <td style="border:none">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
 
    </td>
-   <td style="border:none;">
+   <td style="border:none">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
