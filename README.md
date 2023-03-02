@@ -12,7 +12,7 @@
 <div align="center">
  <table>
   <tr style="border:none">
-   <td style="border:none">
+   <td style="border:none" border="none">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
 
