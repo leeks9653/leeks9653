@@ -9,23 +9,10 @@
 </div>
 <br/>
 
-<div align="center">
- <table style="background-color:red">
-  <tr style="border:none">
-   <td style="border:none" border="none">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
-
-   </td>
-   <td style="border:none">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
-   </td>
-  </tr>
- <table>
-</div>
-  
 <br/>
 <h2 align="center">🛠️ Can use 🛠️</h2>
 <div align="center">
