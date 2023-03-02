@@ -9,20 +9,22 @@
 </div>
 <br/>
 
-<table>
-  <tr>
-   <td>
+<div>
+ <table>
+   <tr>
+    <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
 
-   </td>
-   <td>
+    </td>
+    <td>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
 
-   </td>
-  </tr>
-<table>
+    </td>
+   </tr>
+ <table>
+</div>
   
 <br/>
 <h2 align="center">🛠️ Can use 🛠️</h2>
