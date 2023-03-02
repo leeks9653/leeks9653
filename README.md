@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
- <table>
+ <table style="background-color:red">
   <tr style="border:none">
    <td style="border:none" border="none">
 
