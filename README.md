@@ -9,7 +9,6 @@
 </div>
 <br/>
 
-<div>
   <table>
     <tr>
       <td>
@@ -24,7 +23,6 @@
       </td>
     </tr>
   <table>
-</div>
   
 <br/>
 <h2 align="center">🛠️ Can use 🛠️</h2>
