@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
- <table style="border:0">
+ <table style="border-collapse:collapse;">
   <tr>
    <td>
 
