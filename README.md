@@ -12,7 +12,7 @@
 <div align="center">
  <table style="border-collapse:collapse;">
   <tr>
-   <td>
+   <td style="border:0">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
 
