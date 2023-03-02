@@ -1,20 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+My+name+is+Kyeong+soo&vCenter=true&size=30&duration=5000&width=600)](https://git.io/typing-svg)
 <br/>
 <div align="center">
-<h2>🛠️ Github stats 🛠️</h2>
+<h2>🛀🏻Github stats</h2>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeks9653&show_icons=true&theme=radical)
 
 <br/>
   
-<h2>🛠️ Most use 🛠️</h2>
+<h2>✒️Most use</h2>
 <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
   
 <br/>
-<h2>🛠️ PS 🛠️</h2>
+<h2>🚴🏻‍♂️PS</h2>
 <br/>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
