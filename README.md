@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=FFFFFF"/>
 </div>
+
+<div align="center">
+ <a href="https://velog.io/@leeks9653"> 
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997"/>
+ </a>
+</div>
   
 
 
