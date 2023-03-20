@@ -48,7 +48,7 @@
 <br/>
 <div align="center">
  <a href="https://velog.io/@leeks9653" target="_blank"> 
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997"/>[링크이름](https://www.google.co.kr/){:target="_blank"}
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=20C997"/>
  </a>
 </div>
   
