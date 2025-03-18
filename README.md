@@ -12,13 +12,6 @@
 <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
-  
-<br/>
-<h2>🚴🏻‍♂️PS</h2>
-<br/>
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=leeks9653)](https://solved.ac/leeks9653)
-  
 </div>
 
 <br/>
